@@ -9,3 +9,4 @@ npm run dev
 yarn
 yarn dev
 ```
+[Check here](https://next-landing-page14.netlify.app/)
